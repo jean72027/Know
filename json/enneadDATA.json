@@ -1,0 +1,216 @@
+{
+    "ennead": [
+       {
+       "pic": "https://raw.githubusercontent.com/jean72027/pic/master/Ra.png",
+       "title": "太陽神 拉",
+       "a1": "九柱神之首",
+       "a2":"創造出一切的創世神",
+       "a3":"原為埃及的統治者",
+       "a4":"後被奧西里斯奪去王位",
+       "a5":"",
+       "a6":"",
+       "heart": false
+       },
+       {
+        "pic": "https://raw.githubusercontent.com/jean72027/pic/master/Shu.png",
+        "title": "大氣之神 舒",
+        "a1": "拉的兒子",
+        "a2":"大氣之神",
+        "a3":"手撐天空腳踩大地",
+        "a4":"頭戴著長羽毛頭飾",
+        "a5":"",
+       "a6":"",
+       "heart": false
+        },
+        {
+        "pic": "https://raw.githubusercontent.com/jean72027/pic/master/Tefnut.png",
+        "title": "濕氣之神 泰芙努特",
+        "a1": "拉的女兒",
+        "a2":"濕氣之神",
+        "a3":"與兄長舒結婚",
+        "a4":"生下蓋布與努特",
+        "a5":"",
+        "a6":"",
+        "heart": false
+        },
+        {
+        "pic": "https://raw.githubusercontent.com/jean72027/pic/master/Geb.png",
+        "title": "大地之神 蓋布",
+        "a1": "舒與泰芙努特的兒子",
+        "a2":"大地之神",
+        "a3":"與妹妹努特相愛",
+        "a4":"生下了四個孩子",
+        "a5":"",
+        "a6":"",
+        "heart": false
+        },
+        {
+        "pic": "https://raw.githubusercontent.com/jean72027/pic/master/Nut.png",
+        "title": "天空女神 努特",
+        "a1": "舒與泰芙努特的女兒",
+        "a2":"天空的女神",
+        "a3":"又被視為死亡女神",
+        "a4":"石棺內壁上常繪有她",
+        "a5":"",
+        "a6":"",
+        "heart": false
+        },
+        {
+        "pic": "https://raw.githubusercontent.com/jean72027/pic/master/Osiris.png",
+        "title": "冥界之神 奧西里斯",
+        "a1": "原為農業之神，統治埃及",
+        "a2":"後被兄弟賽特殺死",
+        "a3":"而成為了冥界之主",
+        "a4":"與妹妹伊西絲生下荷魯斯",
+        "a5":"",
+        "a6":"",
+        "heart": false
+        },
+            {
+        "pic": "https://raw.githubusercontent.com/jean72027/pic/master/Isis.png",
+        "title": "魔法之神 伊西絲",
+        "a1": "魔法與自然之神",
+        "a2":"王位的化身",
+        "a3":"她的頭飾就是個寶座",
+        "a4":"是荷魯斯(法老之始)的母親",
+        "a5":"",
+        "a6":"",
+        "heart": false
+        },
+        {
+        "pic": "https://raw.githubusercontent.com/jean72027/pic/master/Set.png",
+        "title": "戰爭之神 賽特",
+        "a1": "戰爭與沙漠之神，力量之神",
+        "a2":"殺死奧西里斯奪取他的王位",
+        "a3":"後與姪子荷魯斯爭奪王位",
+        "a4":"最終敗北",
+        "a5":"",
+        "a6":"",
+        "heart": false
+        },
+        {
+        "pic": "https://raw.githubusercontent.com/jean72027/pic/master/Nephthys.png",
+        "title": "和諧之神 奈芙蒂斯",
+        "a1": "和諧與生育之神",
+        "a2":"賽特的妻子",
+        "a3":"同時也是亡者的守護神",
+        "a4":"是死神阿努比斯的母親",
+        "a5":"",
+        "a6":"",
+        "heart": false
+        }
+ ],
+ "kano": [
+    
+    {
+    "pic": "https://raw.githubusercontent.com/jean72027/pic/master/mummy1.png",
+    "title": "1.清洗遺骸",
+    "a1":"先用蘇打水清洗擦拭遺骸",
+    "a2":"以松脂塗抹面部防止變形",
+    "a3":"將細管從鼻子插入顱腔",
+    "a4":"攪碎腦漿再抽出",
+    "a5":"最後在顱腔填入香料跟藥材",
+    "a6":"",
+    "heart": false
+    },
+    {
+    "pic": "https://raw.githubusercontent.com/jean72027/pic/master/mummy2.png",
+    "title": "2.內臟處理",
+    "a1":"取出遺體的肝、胃、肺、腸",
+    "a2":"並用食鹽吸乾水份",
+    "a3":"塗上松脂跟食用油",
+    "a4":"再分別放入卡諾皮克罐",
+    "a5":"心臟會另外處理",
+    "a6":"",
+    "heart": false
+    },
+    {
+    "pic": "https://raw.githubusercontent.com/jean72027/pic/master/mummy3.png",
+    "title": "3.處理心臟",
+    "a1": "古埃及人認為心臟",
+    "a2":"是智慧之源",
+    "a3":"心臟要放回遺體內",
+    "a4":"心臟經由食鹽鹼粉脫水後",
+    "a5":"用棕油清洗一次",
+    "a6":"放上甲蟲護身符後放回胸腔",
+    "heart": false
+    },
+    {
+    "pic": "https://raw.githubusercontent.com/jean72027/pic/master/mummy4.png",
+    "title": "4.胸腔縫合",
+    "a1": "將腹腔胸腔內壁用棕油洗淨",
+    "a2":"放入成包的蘇打粉",
+    "a3":"及鹼粉瀝青再將屍體放上",
+    "a4":"鋪滿乾粉的床，對屍體進行",
+    "a5":"脫水處理，脫水完再填入",
+    "a6":"香料與內臟縫合",
+    "heart": false
+    },
+    {
+    "pic": "https://raw.githubusercontent.com/jean72027/pic/master/mummy5.png",
+    "title": "5.美化包裹",
+    "a1": "由於經過乾燥處理",
+    "a2":"木乃伊的面部輪廓會變模糊",
+    "a3":"需要化妝師為木乃伊",
+    "a4":"化妝整容，並戴上",
+    "a5":"假髮和首飾，最後再用",
+    "a6":"亞麻布將遺體包裹住",
+    "heart": false
+    },
+    {"pic": "https://raw.githubusercontent.com/jean72027/pic/master/Canopic.png",
+    "title": "什麼是卡諾皮克罐?",
+    "a1": "製作木乃伊時",
+    "a2":"用來保存內臟的罐子",
+    "a3":"意義是保護法老的內臟",
+    "a4":"以供法老來世使用",
+    "a5":"多由石灰石製成",
+    "a6":"",
+    "heart": false
+    },
+    {
+    "pic": "https://raw.githubusercontent.com/jean72027/pic/master/Imset.png",
+    "title": "艾姆謝特罐 人首神?",
+    "a1": "守護肝臟",
+    "a2":"罐上刻著的銘文是",
+    "a3":"「我是艾姆謝特",
+    "a4":"你—奧西里斯的孩子",
+    "a5":"  我來保護你。」",
+    "a6":"",
+    "heart": false
+    },
+    {
+    "pic": "https://raw.githubusercontent.com/jean72027/pic/master/Duamutef.png",
+    "title": "多姆泰夫罐 狼首神",
+    "a1": "守護胃",
+    "a2":"罐上刻著的銘文是",
+    "a3":"「我是多姆泰夫，愛你的",
+    "a4":"荷魯斯的孩子",
+    "a5":"  我來為父親報仇。」",
+    "a6":"",
+    "heart": false
+    },
+    {
+    "pic": "https://raw.githubusercontent.com/jean72027/pic/master/Hapi.png",
+    "title": "哈畢罐 狒狒首神",
+    "a1": "守護肺",
+    "a2":"罐上刻著的銘文是",
+    "a3":"「我是哈畢",
+    "a4":"你——奧西里斯的孩子",
+    "a5":"  我來保護你。」",
+    "a6":"",
+    "heart": false
+    },
+    {
+    "pic": "https://raw.githubusercontent.com/jean72027/pic/master/Kebechsenef.png",
+    "title": "凱布山納夫罐 鷹首神",
+    "a1": "守護腸子",
+    "a2":"罐上刻著的銘文是",
+    "a3":"「我是凱布山納夫",
+    "a4":"你，奧西里斯的孩子",
+    "a5":"  我已經來了，我會保護你。」",
+    "a6":"",
+    "heart": false
+    }
+    
+ ]
+}
